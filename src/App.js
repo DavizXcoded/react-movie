@@ -11,7 +11,7 @@ import { homedir } from 'os';
 const App = () => {
   return(
 
-    <BrowserRouter basename='/movie/'>
+    <BrowserRouter basename=''>
     <React.Fragment>
       <Header/>
       <Switch>
